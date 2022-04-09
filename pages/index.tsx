@@ -48,6 +48,7 @@ function HomePage() {
         <Navigation />
         <Header data={landingPageData.Header} />
         {/* <Features data={landingPageData.Features} /> */}
+        {/* @ts-expect-error */}
         <About data={landingPageData.About} />
         <Services data={landingPageData.Services} />
         <Testimonials data={landingPageData.Testimonials} />
@@ -56,6 +57,7 @@ function HomePage() {
         {/* @ts-ignore  */}
         <div
           className="fb-customerchat"
+          // @ts-ignore
           attribution="setup_tool"
           page_id="106923447801086"
         ></div>
