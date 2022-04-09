@@ -1,0 +1,22 @@
+.notice {
+  display: flex;
+  background-color: yellow;
+  padding: 20px;
+  border: 1px;
+  border-radius: 4px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.hiddenNotice {
+  display: none;
+}
+.notice > div {
+  flex: 1;
+}
+
+.notice a {
+  text-align: right;
+  display: flex;
+  flex-direction: row;
+}

@@ -1,0 +1,100 @@
+{
+  "Header": {
+    "title": "Professional paving and driveway company",
+    "paragraph": "Cheshire-based family run business with over 50 years combined industry experience"
+  },
+  "About": {
+    "paragraph": "We're a family run business serving the Cheshire and Manchester area. With over 50 years experience we carry out top quality work at affordable prices. Our paving experts can help you with all your paving and driveway needs, including Block Paving, Tarmac Services, Driveways, Patio Laying and much more. We provide an obligation-free quote for all your paving needs.",
+    "Why": [
+      "Customer-first",
+      "Quality craftsmanship",
+      "Professional service",
+      "Courteous"
+    ],
+    "Why2": ["50+ years experience", "Affordable", "Guaranteed", "Reliable"]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-home",
+      "name": "Block Paving",
+      "text": "Fine Stone Paving specialise in fantastic quality Block paving. Whether you’re paving your entire driveway, or just a small section or pathway, it can vastly improve the look of your property as well as being practical. Our range of block paving designs for driveway patio or paths offer a dazzling variety of textures, colours and designs that will transform your new block paving driveway or patio."
+    },
+    {
+      "icon": "fa fa-road",
+      "name": "Tarmac Driveways",
+      "text": "Tarmac can be a perfect solution to enhance Driveways and Paths, it can prove to be an extremely durable surface when installed properly. Dependant on the depth and structural make-up of the base (foundations) and the quality of top coat (overlay) initially applied the length of service tarmac will give, can vary. A well installed Tarmac driveway should be expected to have a minimum lifespan of 20 years onwards."
+    },
+    {
+      "icon": "fa fa-umbrella",
+      "name": "Patios and Paths",
+      "text": "We know how to make the very best of small gardens, giving the illusion of space; and how to push the boundaries in exquisite garden design when it comes to larger outdoor spaces. Our talented team have helped hundreds of homeowners throughout Cheshire and the surrounding areas to enhance their properties with the addition of a new patio"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/female_young1.jpg  ",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+      "name": "Max Benson, Middlewich"
+    },
+    {
+      "img": "img/testimonials/male_young1.jpg",
+      "text": "\"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"",
+      "name": "Amit Abidi, Knutsford"
+    },
+    {
+      "img": "img/testimonials/female_young1.jpg",
+      "text": "\"Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat\"",
+      "name": "Svetlana Kowalska, Altrincham"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "160 Booth Lane, Middlewich, CW10 0EF",
+    "phone": "+447779128301",
+    "email": "info@finestonepaving.co.uk",
+    "facebook": "https://www.facebook.com/finestonepavinguk"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
